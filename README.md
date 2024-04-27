@@ -65,3 +65,6 @@ initiatives in Ibadan, expanding online reach by 40% and increasing awareness am
 3. Multistate Model for Parity Progression among Women Receiving HIV Care at University College Hospital, Ibadan, Nigeria (MPH Thesis)
 4. Socio-Demographic Determinants of Unmet Need for Contraceptives among Women in SouthWest Nigeria (B.Sc. Project)
 
+## Contacts
+- LinkedIn: [@olagunjuahmed](https://www.linkedin.com/in/olagunjuahmed/)
+- Email: [olagunjuahmed@gmail.com](mailto:olagunjuahmed@gmail.com)
