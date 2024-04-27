@@ -1,7 +1,6 @@
 # Data Analyst
 
 #### Technical Skills: R, SQL, Python, Excel, Power BI, Tableau
-##### Microsoft Azure, GCP, Trello, JIRA
 
 ## Featured Projects
 
