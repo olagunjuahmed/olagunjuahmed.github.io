@@ -28,7 +28,7 @@ improvement.
 - Conducted data analysis using R, Python, SPSS, and STATA, applying appropriate statistical methods to yield a
 significant increase of 30% in valid output.
 
-**Research Communication Officer | Ministry of ICT (_Aug 2017 - Dec -2018_)**
+**Research Communication Officer | Ministry of ICT (_Aug 2017 - Dec. 2018_)**
 
 - Spearheaded a team of 7 corps members in conducting surveys of 10 selected tourist attraction centers in Oyo State,
 resulting in comprehensive data collection and analysis.
