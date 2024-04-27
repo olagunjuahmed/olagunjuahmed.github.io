@@ -8,8 +8,7 @@
 ### Title: Customer Behaviour:
 - Insights from Sales Analysis Analyzed data for a store seeking insights into customer behaviour and discount effectiveness for the customer segments. The key findings include revenue sources, profitable regions, and strategic recommendations for future advertisement.
 
-[Full Report](https://docs.google.com/document/d/19KGJD430R9ZfOr-9iOIwJzqgr-bXrAY-jFpXhsIaNjs/edit?usp=sharing)   || 
- [Visualisation](https://maheonline-my.sharepoint.com/:u:/g/personal/22154090159_manipalacademyonline_edu_in/EbNO9lP4syBBtmjj1k6eA6QBLqfjcutgrrDw6VZplBMufQ?e=rTbuAQ)  || **Tools: Power BI & SQL** 
+[Full Report](https://docs.google.com/document/d/19KGJD430R9ZfOr-9iOIwJzqgr-bXrAY-jFpXhsIaNjs/edit?usp=sharing)   || [Visualisation](https://maheonline-my.sharepoint.com/:u:/g/personal/22154090159_manipalacademyonline_edu_in/EbNO9lP4syBBtmjj1k6eA6QBLqfjcutgrrDw6VZplBMufQ?e=rTbuAQ)  || **Tools: Power BI & SQL** 
 
 ### Title: Fuel Consumption Ratings of Vehicles in Canada
 - Performed an analysis of fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles and retail sales in Canada from 2012 - 2024 using **Microsoft Azure Services (end-to-end)** and also performed Statistical analysis using **R**
@@ -52,10 +51,6 @@ initiatives in Ibadan, expanding online reach by 40% and increasing awareness am
 - Graduate Certificate Program, Monitoring & Evaluation in Global Health | University of Washington, USA | (_2022_)
 
 ## Skills
-| Report Writing | Teamwork | Communication | Creative Thinking    |
-| :---         |     :---:  |     :---:   |              ---:      |
-| Presentation  | Attention to details   | Problem Solving   | Time Management      |
-| Flexibility   | Critical Thinking      | Story Telling      | Leadership   |
 
 | Report Writing | Teamwork | Communication |
 | :---         |     :---:      |          ---: |
