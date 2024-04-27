@@ -54,10 +54,13 @@ initiatives in Ibadan, expanding online reach by 40% and increasing awareness am
 ## Skills
 | Report Writing | Teamwork | Communication | Creative Thinking |
 | :---         |     :---:  |     :---:   |              ---: |
-| Presentation  | Attention to details   | Problem Solving   | Time Management  |
-| Flexibility   | Critical Thinking      | Story Telling      | Leadership     |
+| Presentation  | Attention to details   | Problem Solving   | Time Management |
+| Flexibility   | Critical Thinking      | Story Telling      | Leadership   |
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## Publications
 
