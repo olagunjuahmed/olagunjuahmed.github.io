@@ -52,15 +52,17 @@ initiatives in Ibadan, expanding online reach by 40% and increasing awareness am
 - Graduate Certificate Program, Monitoring & Evaluation in Global Health | University of Washington, USA | (_2022_)
 
 ## Skills
-| Report Writing | Teamwork | Communication | Creative Thinking |
-| :---         |     :---:  |     :---:   |              ---: |
-| Presentation  | Attention to details   | Problem Solving   | Time Management |
+| Report Writing | Teamwork | Communication | Creative Thinking    |
+| :---         |     :---:  |     :---:   |              ---:      |
+| Presentation  | Attention to details   | Problem Solving   | Time Management      |
 | Flexibility   | Critical Thinking      | Story Telling      | Leadership   |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Report Writing | Teamwork | Communication |
+| :---         |     :---:      |          ---: |
+| Presentation   | Attention to details     | Critical Thinking    |
+| Flexibility     | Creative Thinking       | Story Telling      |
+| Leadership    | ProblemSolving       | Time Management      |
+
 
 ## Publications
 
