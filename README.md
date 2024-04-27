@@ -1,18 +1,16 @@
-# olagunjuahmed.github.io
-
-#Data Analyst
+# Data Analyst
 
 ### Education
-Medical Demography, MPH
 Data Science, MSc (Ongoing)
 Management, MSc (Ongoing)
+Medical Demography, MPH
 Statistics & Demography, BSc.
 
 
 ### Work Experience
 Data Analyst @ IgnitePeak Research Consult
--- Success1
--- Success2
+- Success1
+- Success2
 
 ### Projects
 Sales 
