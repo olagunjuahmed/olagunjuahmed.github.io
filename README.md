@@ -4,7 +4,7 @@
 
 ## Featured Projects
 
-### Title: Customer Behaviour:
+### Title: Customer Behaviour
 - Insights from Sales Analysis Analyzed data for a store seeking insights into customer behaviour and discount effectiveness for the customer segments. The key findings include revenue sources, profitable regions, and strategic recommendations for future advertisement.
 
 [Full Report](https://docs.google.com/document/d/19KGJD430R9ZfOr-9iOIwJzqgr-bXrAY-jFpXhsIaNjs/edit?usp=sharing)   || [Visualisation](https://maheonline-my.sharepoint.com/:u:/g/personal/22154090159_manipalacademyonline_edu_in/EbNO9lP4syBBtmjj1k6eA6QBLqfjcutgrrDw6VZplBMufQ?e=rTbuAQ)  || **Tools: Power BI & SQL** 
